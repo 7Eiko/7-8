@@ -1,6 +1,6 @@
-def Hello():
+def Helloe():
     print("Good morning")
-Hello()
+Helloe()
 
 def Hello_day():
     print("Good morning")
